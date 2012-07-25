@@ -1,5 +1,0 @@
-category: Python
-requires: libzmq1 python
-sdesc: "Python 0MQ bindings"
-ldesc: "This package contains Python bindings for 0MQ, a lightweight and 
-fast messaging implementation."
