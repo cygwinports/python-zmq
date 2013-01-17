@@ -2,7 +2,7 @@ inherit python-distutils
 
 NAME="python-zmq"
 VERSION=2.2.0.1
-RELEASE=1
+RELEASE=2
 CATEGORY="Python"
 SUMMARY="Python 0MQ bindings"
 DESCRIPTION="This package contains Python bindings for 0MQ, a lightweight and
