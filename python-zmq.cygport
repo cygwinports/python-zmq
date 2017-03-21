@@ -1,8 +1,8 @@
 ORIG_PN="pyzmq"
-inherit python-distutils
+inherit python-wheel
 
 NAME="python-zmq"
-VERSION=15.2.0
+VERSION=16.0.2
 RELEASE=1
 CATEGORY="Python"
 SUMMARY="Python 0MQ bindings"
