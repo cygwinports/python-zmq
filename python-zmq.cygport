@@ -11,3 +11,5 @@ fast messaging implementation."
 HOMEPAGE="http://www.zeromq.org/bindings:python"
 
 DOCS="COPYING.LESSER README.rst"
+
+python_zmq_debuginfo_OBSOLETES="python3-zmq-debuginfo"
