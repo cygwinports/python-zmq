@@ -2,7 +2,7 @@ ORIG_PN="pyzmq"
 inherit python-wheel
 
 NAME="python-zmq"
-VERSION=16.0.2
+VERSION=17.0.0
 RELEASE=1
 CATEGORY="Python"
 SUMMARY="Python 0MQ bindings"
